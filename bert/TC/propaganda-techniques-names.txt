@@ -1,0 +1,10 @@
+Doubts_government
+Doubts_Army
+Doubts_media
+Doubts_partners
+Doubts_other
+Black_White
+Emotion_Fear
+Emotion_Anger
+Emotion_Hate_Disgust
+Emotion_other

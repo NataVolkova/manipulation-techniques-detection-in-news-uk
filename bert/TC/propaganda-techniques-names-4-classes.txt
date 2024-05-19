@@ -1,0 +1,4 @@
+Doubts
+Black_White
+Emotion_Fear
+Loaded_language
